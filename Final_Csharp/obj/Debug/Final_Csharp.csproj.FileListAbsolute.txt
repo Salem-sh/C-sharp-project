@@ -1,0 +1,30 @@
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\bin\Debug\Final_Csharp.exe.config
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\bin\Debug\Final_Csharp.exe
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\bin\Debug\Final_Csharp.pdb
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Form1.resources
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Properties.Resources.resources
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.exe
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.pdb
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Customer.resources
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Products.resources
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Home.resources
+C:\Users\Omar\Desktop\Final_Csharp\Final_Csharp\obj\Debug\Final_Csharp.Admin.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\bin\Debug\Final_Csharp.exe.config
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\bin\Debug\Final_Csharp.exe
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\bin\Debug\Final_Csharp.pdb
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Admin.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Customer.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Form1.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Home.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Products.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.Properties.Resources.resources
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.exe
+C:\Users\Omar\Desktop\uni\year3\Semester 1\Visual Programming\Final_Csharp PROJECT\Final_Csharp\obj\Debug\Final_Csharp.pdb
